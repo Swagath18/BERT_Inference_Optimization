@@ -3,7 +3,8 @@
 
 This project demonstrates how to optimize a BERT model for faster inference using **post-training quantization** and **dynamic batching**, and deploy it using a Flask-based inference server.
 
-##Workflow
+## Workflow
+
 ![Alt Text](Bert_inference_Optimization_workflow.png)
 
 ## Features
